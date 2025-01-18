@@ -40,12 +40,16 @@ AI-powered tool for generating high-quality questions and answers from text pass
    ```bash
    git clone https://github.com/your-username/AI-QA-Generator.git
 2. Navigate to the project directory:
-  cd AI-QA-Generator
+    ```bash
+   cd AI-QA-Generator
 3. Install the dependencies:
-  pip install -r requirements.txt
+     ```bash
+   pip install -r requirements.txt
 4. Run the application:
-  python app.py
+     ```bash
+   python app.py
 5. Open the application in your browser:
+      ```bash
    http://127.0.0.1:5001
 
 ## Tech Stack
