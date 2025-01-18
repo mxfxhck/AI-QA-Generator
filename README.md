@@ -49,9 +49,9 @@ AI-powered tool for generating high-quality questions and answers from text pass
    http://127.0.0.1:5001
 
 ## Tech Stack
-1. #Backend: Flask
-2. #Frontend: HTML, CSS, Bootstrap, JavaScript
-3. NLP Libraries: NLTK, NumPy 
+1. **Backend**: Flask
+2. **Frontend**: HTML, CSS, Bootstrap, JavaScript
+3. **NLP Libraries**: NLTK, NumPy 
 
 ## Contributing
 # Contributions are welcome! Feel free to:
