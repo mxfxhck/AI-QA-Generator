@@ -54,7 +54,8 @@ AI-powered tool for generating high-quality questions and answers from text pass
 3. **NLP Libraries**: NLTK, NumPy 
 
 ## Contributing
-# Contributions are welcome! Feel free to:
+
+**Contributions are welcome! Feel free to:**
 
 * Report issues
 * Suggest new features
